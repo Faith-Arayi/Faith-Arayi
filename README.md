@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faith Arayi
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Science and AI
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ Experienced using Ms Excel, Power BI, and Python
 - 📫 You can reach me via arayifaith@gmail.com
 
